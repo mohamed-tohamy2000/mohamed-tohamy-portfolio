@@ -8,9 +8,9 @@
   location: "Cairo, Egypt",
   linkedin: "https://linkedin.com/in/dev-mohamed-tohamy",
   github: "https://github.com/mohamed-tohamy2000",
-  cvUrl: "https://drive.google.com/uc?export=download&id=1B69UAeEkWYnsXl7u1Qjr8pfnVgxV3N0P",
-  heroImage: "../../dist/mohamed tohamy.png",
-  aboutImage: "../../dist/WhatsApp Image 2026-03-07 at 1.54.36 AM.jpeg",
+  cvUrl: "/Mohamed-Tohamy-CV.pdf",
+  heroImage: "/hero-profile.jpeg",
+  aboutImage: "/hero-profile.jpeg",
   summary:
     "Front-End Developer skilled in React.js, JavaScript (ES6+), Tailwind CSS, HTML5, and CSS3, focused on building responsive, interactive, and user-friendly web experiences with clean structure and smooth animations.",
   longSummary:
