@@ -9,7 +9,7 @@
   linkedin: "https://linkedin.com/in/dev-mohamed-tohamy",
   github: "https://github.com/mohamed-tohamy2000",
   cvUrl: "/Mohamed-Tohamy-CV.pdf",
-  heroImage: "/hero-profile.jpeg",
+  heroImage: "/public/mohamed tohamy.png",
   aboutImage: "/hero-profile.jpeg",
   summary:
     "Front-End Developer skilled in React.js, JavaScript (ES6+), Tailwind CSS, HTML5, and CSS3, focused on building responsive, interactive, and user-friendly web experiences with clean structure and smooth animations.",
