@@ -6,8 +6,7 @@
     stack: ["React", "Tailwind CSS", "REST API"],
     description:
       "Developed a responsive e-commerce platform for office furniture with optimized performance, structured product browsing, and seamless user experience.",
-    image:
-      "../../public/images/projects/officeland.png",
+    image: "/images/projects/officeland.png",
     liveUrl: "https://we-office-land.vercel.app",
     githubUrl: "#",
     featured: true,
@@ -19,8 +18,7 @@
     stack: ["React", "JavaScript (ES6+)", "Tailwind CSS"],
     description:
       "Interactive bookstore application with API integration, advanced search and filtering, and optimized rendering for dynamic data handling.",
-    image:
-      "../../public/images/projects/bookshop.png",
+    image: "/images/projects/bookshop.png",
     liveUrl: "https://book-store-roan-nu.vercel.app",
     githubUrl: "#",
     featured: true,
@@ -32,8 +30,7 @@
     stack: ["React", "Tailwind CSS", "Framer Motion"],
     description:
       "Modern portfolio website with smooth animations, clean UI design, and structured project presentation to enhance user engagement.",
-    image:
-      "../../public/images/projects/my-portfolio.png",
+    image: "/images/projects/my-portfolio.png",
     liveUrl: "https://mohamed-tohamy-portfolio.vercel.app",
     githubUrl: "#",
     featured: true,
@@ -58,8 +55,7 @@
     stack: ["React", "Framer Motion", "CSS"],
     description:
       "High-conversion landing page with smooth animations, scroll-based interactions, and modern UI structure.",
-    image:
-      "../../public/images/projects/loginpage.png",
+    image: "/images/projects/loginpage.png",
     liveUrl: "https://login-page-sigma-pink.vercel.app/login",
     githubUrl: "#",
     featured: false,
