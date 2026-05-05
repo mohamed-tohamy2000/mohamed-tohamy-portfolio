@@ -4,12 +4,14 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import ScrollToTop from "../common/ScrollToTop";
 import CustomCursor from "../common/CustomCursor";
+import SEO from "../common/SEO";
 
 export default function MainLayout() {
   const location = useLocation();
 
   return (
     <div className="min-h-screen">
+      <SEO />
       <ScrollToTop />
       <CustomCursor />
       <Navbar />
