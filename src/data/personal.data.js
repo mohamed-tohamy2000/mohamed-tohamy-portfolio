@@ -8,7 +8,7 @@
   location: "Cairo, Egypt",
   linkedin: "https://linkedin.com/in/dev-mohamed-tohamy",
   github: "https://github.com/mohamed-tohamy2000",
-  cvUrl: "/Mohamed-Tohamy-CV.pdf",
+  cvUrl: "https://drive.google.com/file/d/1laDAyWoZCwcn33_5vfJ8mw5Z6Zs2xSmd/view?usp=sharing",
   heroImage: "/mohamed tohamy.png",
   aboutImage: "/hero-profile.jpeg",
   summary:
